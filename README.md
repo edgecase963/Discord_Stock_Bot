@@ -67,6 +67,9 @@ User commands:
 
 # view your notifications
 /view notifications
+
+# view all available commands
+/commands
 ```
 All users and the primary administrator can use these commands.
 
